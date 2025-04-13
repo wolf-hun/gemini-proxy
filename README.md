@@ -7,6 +7,8 @@ pip install flask requests
 ```
 ## Edit gemini_proxy.py!!!
 
+API key ect...
+
 ## Start the Proxy
 
 Start the script (for example: `python gemini_proxy.py`), which will make the API available at `http://127.0.0.1:3000/v1/chat/completions`.
@@ -30,6 +32,8 @@ pip install flask requests
 ```
 
 ## Szerkezd a gemini_proxy.py-t!!!
+
+API kulcs stb...
 
 ## A proxy futtatása
 
